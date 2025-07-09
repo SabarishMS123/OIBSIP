@@ -63,3 +63,8 @@ Under reservation form users will have to fill the necessary details such as the
 ### 3. Cancellation Form
 If passengers want to cancel their tickets then they have to provide their PNR number and after submitting it, this will display the entire information related to that particular PNR number. If users want to confirm their cancellation, in this case they have to press OK button.
 ![Cancellation Form](Screenshot%202025-07-09%20214227.png)
+
+## Database Schema
+The project utilizes a `userinfo` table to store user credentials and travel preferences. Below is a snapshot of its structure and some sample data.
+
+![User Table Schema](image_9dbd98.png)
