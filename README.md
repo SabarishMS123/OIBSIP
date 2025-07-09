@@ -48,7 +48,7 @@ This Online Reservation System is designed for your convenience to simplify the 
 
 ### Main Screen
 Here's the initial screen of the system outlining its benefits:
-![Screenshot 2025-07-09 214235.png](Screenshot 2025-07-09 214235.png)
+![Screenshot of Screenshot 2025-07-09 214235.png ](Screenshot 2025-07-09 214235.png) 
 
 ## Modules:
 
