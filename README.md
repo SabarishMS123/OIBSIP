@@ -66,5 +66,4 @@ If passengers want to cancel their tickets then they have to provide their PNR n
 
 ## Database Schema
 The project utilizes a `userinfo` table to store user credentials and travel preferences. Below is a snapshot of its structure and some sample data.
-
-![User Table Schema](image_9dbd98.png)
+![User Table Schema](Screenshot%202025-07-09%20215357.png)
