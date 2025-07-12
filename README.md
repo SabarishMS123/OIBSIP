@@ -82,21 +82,27 @@ The initial screen outlining the bank's security measures and options to registe
 
 User Registration
 Securely register new bank customers with essential personal and account details.
+![atmregister](atmregister.png)
 
 Account Services
 Users can perform various banking operations after logging in.
+![atmservice](atmservice.png)
 
 Withdrawal
 Facilitates cash withdrawals from existing accounts.
+![atmwithdraw](atmwithdraw.png)
 
 Deposit
 Allows users to deposit funds into their accounts.
+![atmdeposit](atmdeposit.png)
 
 Transfer
 Enables funds transfer between different bank accounts.
+![atmtransfer](atmtransfer.png)
 
 Database View
 A glimpse into the structured data storing customer and account information.
+![ATMDB](ATMDB.png)
 
 🚀 Getting Started
 To get a copy of this project up and running on your local machine for development and testing purposes, follow these simple steps.
