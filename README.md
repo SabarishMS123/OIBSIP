@@ -67,3 +67,36 @@ If passengers want to cancel their tickets then they have to provide their PNR n
 ## Database Schema
 The project utilizes a `userinfo` table to store user credentials and travel preferences. Below is a snapshot of its structure and some sample data.
 ![User Table Schema](Screenshot%202025-07-09%20215357.png)
+
+
+
+🏦 Bank Management System
+This repository hosts a simple yet functional Bank Management System developed to demonstrate core banking operations and user management. It provides a foundational understanding of how bank accounts can be managed, transactions processed, and user data secured within a system.
+
+✨ Features
+Our Bank Management System encompasses the following key functionalities:
+
+Front Page - Bank Protocols & Security Rules
+The initial screen outlining the bank's security measures and options to register or take a service.
+![atmfrontpage](atmfrontpage.png)
+
+User Registration
+Securely register new bank customers with essential personal and account details.
+
+Account Services
+Users can perform various banking operations after logging in.
+
+Withdrawal
+Facilitates cash withdrawals from existing accounts.
+
+Deposit
+Allows users to deposit funds into their accounts.
+
+Transfer
+Enables funds transfer between different bank accounts.
+
+Database View
+A glimpse into the structured data storing customer and account information.
+
+🚀 Getting Started
+To get a copy of this project up and running on your local machine for development and testing purposes, follow these simple steps.
