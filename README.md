@@ -70,39 +70,60 @@ The project utilizes a `userinfo` table to store user credentials and travel pre
 
 
 
-🏦 Bank Management System
+🏦 ## Bank Management System
 This repository hosts a simple yet functional Bank Management System developed to demonstrate core banking operations and user management. It provides a foundational understanding of how bank accounts can be managed, transactions processed, and user data secured within a system.
 
 ✨ Features
 Our Bank Management System encompasses the following key functionalities:
 
-Front Page - Bank Protocols & Security Rules
+##Front Page - Bank Protocols & Security Rules
 The initial screen outlining the bank's security measures and options to register or take a service.
 ![atmfrontpage](atmfrontpage.png)
 
-User Registration
+##User Registration
 Securely register new bank customers with essential personal and account details.
 ![atmregister](atmregister.png)
 
-Account Services
+##Account Services
 Users can perform various banking operations after logging in.
 ![atmservice](atmservice.png)
 
-Withdrawal
+##Withdrawal
 Facilitates cash withdrawals from existing accounts.
 ![atmwithdraw](atmwithdraw.png)
 
-Deposit
+##Deposit
 Allows users to deposit funds into their accounts.
 ![atmdeposit](atmdeposit.png)
 
-Transfer
+##Transfer
 Enables funds transfer between different bank accounts.
 ![atmtransfer](atmtransfer.png)
 
-Database View
+##Database View
 A glimpse into the structured data storing customer and account information.
 ![ATMDB](ATMDB.png)
 
-🚀 Getting Started
-To get a copy of this project up and running on your local machine for development and testing purposes, follow these simple steps.
+
+
+✍️##Online examination System
+
+🚀 #Project Showcase
+Our Java Swing-based online exam system provides a seamless and intuitive experience for both administrators and students. Here are a few key screens to illustrate its core functionality.
+
+🖼️ #Screenshots
+1.# Online Exam Login 🔒
+The secure login screen ensures only authorized users can access the system. Students and administrators use their unique credentials to sign in.
+![onlineexamlogin](onlineexamlogin.png)
+
+2.# Update Form ✍️
+Administrators can easily manage questions and update the exam content through a dedicated form. This ensures the exam is always up-to-date and relevant.
+![Update form](Update form.png)
+
+
+3.# Exam Session ⏱️
+This is the main interface for the student during the exam. The screen is designed to be clean and focused, displaying the question, options, and a timer to manage the session.
+
+![Exam Session](examsession.png)
+
+
