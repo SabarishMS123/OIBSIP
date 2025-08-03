@@ -118,7 +118,7 @@ The secure login screen ensures only authorized users can access the system. Stu
 
 2.# Update Form ✍️
 Administrators can easily manage questions and update the exam content through a dedicated form. This ensures the exam is always up-to-date and relevant.
-![Update form](Update form.png)
+![Update Form](Update%20form.png)
 
 
 3.# Exam Session ⏱️
