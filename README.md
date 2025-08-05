@@ -126,4 +126,56 @@ This is the main interface for the student during the exam. The screen is design
 
 ![Exam Session](examsession.png)
 
+📚 Library Management System
+This is a comprehensive library management system developed as part of the Oasis Infobyte internship. The system simplifies the process of managing library books, student information, and book issuance/return details.
+
+✨ Features
+Student Management: Add new students and manage their details.
+
+Book Management: Add, edit, and manage book records.
+
+Book Issuance: Keep track of issued books to students.
+
+Book Returns: Record the return of books and calculate any late fees.
+
+User-friendly Interface: Intuitive design for easy navigation.
+
+🚀 Getting Started
+To get a feel of the application, here is a step-by-step walkthrough of the key functionalities.
+
+1. Login Page 🔑
+The application starts with a secure login page. Users (librarians or administrators) must log in to access the system's functionalities.
+
+(Image: Librarylogin.png)
+
+2. Home Dashboard 🏡
+After a successful login, the user is redirected to the main dashboard. This page provides a quick overview of the library's status, including the number of available books, issued books, and registered students.
+
+(Image: MYLIBRARYHOME.png)
+
+3. Adding a New Student 🧑‍🎓
+The system includes a dedicated page to register new students. This ensures that only registered individuals can borrow books.
+
+(Image: LibraryNewStudent.png)
+
+4. Managing Books 📖
+This section allows for the management of the book catalog. New books can be added, and existing book details can be updated.
+
+(Image: LibraryBook.png)
+
+5. Issuing a Book 📤
+To issue a book to a student, the user fills in details such as the student's ID, book's ID, and the issue date. The system logs this information.
+
+(Image: Libraryissue.png)
+
+6. Handling Book Returns 📥
+The return process is just as simple. The system identifies the issued book and records the return date, calculating any overdue fees if applicable.
+
+![Book Return Details](https://www.google.com/search?q=https://via.placeholder.com/600x300.png%3Ftext%3Dlibrary_issuere turn_details.png)
+(Image: library_issuere turn_details.png)
+
+7. About Me ℹ️
+A dedicated page provides information about the developer and the project's purpose.
+
+(Image: libraryaboutme.png)
 
