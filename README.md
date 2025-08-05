@@ -178,3 +178,4 @@ A dedicated page provides information about the developer and the project's purp
 
 ![libraryaboutme](libraryaboutme.png)
 
+Used Tools:Apache Netbeans(IDE), MySQL for Database connectivity
